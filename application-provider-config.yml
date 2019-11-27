@@ -1,4 +1,4 @@
-flag: China
+flag: Beijing
 # 配置dev环境
 server:
   port: 8084
